@@ -1,0 +1,1 @@
+https://ds2022-dxg9tt.s3.us-east-1.amazonaws.com/olympic_surfing.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAXZEFIGYMT3RBTH6Y%2F20240930%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240930T161839Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a1a62bddf7a8e5990d49f6dc3b8e5d93936cb23f8fe94168a5d6e32b69ded823
